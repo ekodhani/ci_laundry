@@ -1,0 +1,11 @@
+body {
+    background: #F7F7F7;
+}
+
+#login{
+    margin-top: 15vh;
+}
+
+hr {
+    background-color: gray !important;
+}
